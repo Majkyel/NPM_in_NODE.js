@@ -1,4 +1,4 @@
-NPM in NODE.js
+# NPM in NODE.js
 
 I created application wich use OS module and timeConverter module wich I created. Next I added colors in OSinfo module to data.
 
